@@ -21,4 +21,4 @@ define('SECURE_AUTH_SALT', 'local_secure_auth_salt');
 define('LOGGED_IN_SALT', 'local_logged_in_salt');
 define('NONCE_SALT', 'local_nonce_salt');
 
-//test
+//test file
